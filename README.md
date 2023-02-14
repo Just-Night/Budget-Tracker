@@ -1,3 +1,3 @@
 # Budget-Tracker
 Just simple budget tracker who help you!
-Rite now develop
+- Currently being develop
